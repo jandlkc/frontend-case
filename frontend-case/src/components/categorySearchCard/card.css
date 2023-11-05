@@ -1,0 +1,21 @@
+.category-card{
+    margin: 100px;
+    height: 450px;
+    background-color: rgb(248, 246, 246);
+    border-radius: 10px;
+    width: 330px;
+    border: 1.5px solid rgb(172, 172, 172);
+    padding: 30px;
+}
+
+.cat-card-header{
+    font-size: 24px;
+    font-weight:400;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.category-list{
+    max-height: 300px; 
+    overflow-y: auto;
+    height: 300px;
+}
