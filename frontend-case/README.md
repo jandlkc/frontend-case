@@ -3,7 +3,7 @@
 Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyin:
 
 1. Projeyi klonlayın:
- 
+  ```sh
    git clone https://github.com/jandlkc/frontend-case/edit/main/frontend-case.git
 
 
